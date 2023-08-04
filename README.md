@@ -118,4 +118,5 @@ And other endpoints...
 
 
 ## License
-The MIT License
+
+[The MIT License](https://choosealicense.com/licenses/mit/)
